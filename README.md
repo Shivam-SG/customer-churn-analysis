@@ -33,3 +33,15 @@ The objective is to identify customer segments with higher churn rates and under
 ## 🎯 Objective
 
 To explore customer churn patterns and identify customer groups that may require retention-focused strategies.
+
+## 🗄️ SQL Analysis
+
+SQL analysis was performed using PostgreSQL.
+
+Key analyses include:
+- Overall Churn Rate
+- Churn Rate by Contract Type
+- Churn Rate by Internet Service
+- Churn Rate by Payment Method
+- Churn Rate by Tenure
+- Churn Rate by Customer Segments
