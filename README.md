@@ -12,6 +12,8 @@ The objective is to identify customer segments with higher churn rates and under
 * Pivot Tables
 * Excel Formulas
 * Data Visualization
+* PostgreSQL
+* SQL Queries
 
 ## 📊 Key Insights
 
